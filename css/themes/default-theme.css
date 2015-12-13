@@ -1,0 +1,139 @@
+
+.scrollToTop{
+	background-color: #006600;
+}
+.scrollToTop:hover,.scrollToTop:focus{
+  background-color: #fff;
+  color: #006600;
+  border: 1px solid #006600;
+}
+.navbar-brand > span {
+  color: #006600;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { 
+  color: #006600;
+}
+.navbar-default .navbar-nav > li > a:hover{
+  color: #006600;
+}
+.slider_btn:hover,.slider_btn:focus{
+	border-color:#006600;
+	color: #006600;
+}
+.slides-navigation a::before,
+.slides-navigation a::after,
+.slides-navigation .icon-wrap::before,
+.slides-navigation .icon-wrap::after {
+	background: #006600;
+}
+.slides-pagination a {
+  border: 2px solid #006600;
+}
+.heading h2 {
+  border-bottom: 11px solid #006600;
+}
+.panel-title a:hover{
+	color: #006600;
+}
+.panel-title a span{
+  color: #006600;
+}
+.service_icon{
+	background-color: #006600;
+}
+
+.single_service:hover .service_icon{
+	color: #006600;
+	border: 2px solid #006600;
+	background-color: #fff;
+}
+.single_service:hover .service_title{
+	color: #006600;
+}
+.single_service > .service_title:after {
+  background-color: #006600;
+}
+.heading h3 {
+  border-bottom: 5px solid #006600;
+}
+.fa-2x {
+  color: #006600;
+}
+.single_team span {
+  color: #006600;
+}
+.team_social a:hover,.team_social a:focus{
+	background-color: #006600;
+}
+.slick-prev, .slick-next {
+  background-color: #006600;
+}
+.single_price .price {
+  background-color: #006600;
+}
+.price_btn {
+  background-color: #006600;
+  border: 1px solid #006600;
+}
+.price_btn:hover{
+	color: #006600 !important;
+}
+.business_price {
+  background-color: #006600 !important;
+}
+.business_price .price_btn{
+	color: #006600 !important;
+}
+.post_commentbox a:hover, .post_commentbox span:hover{
+	color: #006600;
+}
+.read_more{
+	color: #006600;
+}
+.read_more:hover,.read_more:focus{
+	border-bottom: 2px solid #006600;
+}
+.testi_media .media-body span {
+  color: #006600;
+}
+.testimonial_slider .slick-dots li.slick-active button{
+  background: none repeat scroll 0 0 #006600;
+}
+.submit_btn {
+  background-color: #006600;
+}
+.submit_btn:hover{
+	color: #006600;
+	border-color: #006600;
+}
+.form-control:focus {
+  border-color: #006600;
+}
+.wagwep-container ul#portfolio-filter a:hover{
+  background-color: #006600;
+}
+.wagwep-container ul#portfolio-filter li.current a {
+  background:#006600;
+}
+.single_contact_feaured > i {
+  color: #006600;
+}
+.subscr_btn {
+  background-color: #006600;
+}
+.footer_left > p a {
+  color: #006600;
+  font-weight: bold;
+}
+.social_nav li a:hover{
+  color: #006600;
+  border-color: #006600;
+}
+.panel-default .in{
+  border-color: #006600;
+  border-left: 5px solid #006600;
+}
+.about_slider .slick-dots li.slick-active button:before {
+  color: #006600;
+}
